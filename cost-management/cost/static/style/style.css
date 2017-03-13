@@ -1,0 +1,13 @@
+.container-all{
+	color: #fff;
+}
+.page-header-custom{
+    background-color: powderblue;
+    margin-top: 0;
+    margin-bottom: 7px;
+    padding: 20px 20px 20px 100px;
+}
+.table-striped {
+	color: green;
+	background-color: red;
+}
